@@ -1,3 +1,4 @@
+```bash
 # 🛒 Walmart Store Sales Forecasting (Time Series Analysis)
 
 ## 📌 Project Overview
