@@ -47,6 +47,7 @@ Dataset source:
 ---
 
 ## 📁 Project Structure
+```bash
 walmart-sales-forecasting/
 │
 ├── data/
@@ -112,20 +113,20 @@ Residual diagnostics were also performed to ensure model stability.
 
 ## ▶️ How to Run This Project
 
-1. Clone the repository:
+Clone the repository:
 ```bash
-2. git clone <your-repo-link>
+git clone <your-repo-link>
 
 Install dependencies:
 
 pip install -r requirements.txt
 
 
-3. Open Jupyter Notebook:
+Open Jupyter Notebook:
 
 jupyter notebook
 
 
-4. Run:
+Run:
 
 notebooks/walmart_sales_forecasting.ipynb
